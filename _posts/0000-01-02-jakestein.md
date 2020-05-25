@@ -1,5 +1,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Your text. 
+Testing for what? *Fidelity* __Oh__
